@@ -1,0 +1,38 @@
+marquee{
+  color: #397299;
+  font-size: 60px;
+  font-family: Courier New;
+}
+
+body{
+  font-family: Courier;
+  background-color: #c7e8ff;
+  text-align: center;
+  cursor: url(kirby!/lollipop\ kirb.png) 21 19, auto;
+}
+
+#spacedhr{
+  background-color: #004778;
+  height: 3px;
+  margin: 20px;
+}
+
+.flex { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+p{
+  margin: 30px;
+}
+
+h3{
+  margin: 40px;
+}
+
+#space{
+  margin-left: 100px;
+  margin-right: 100px;
+}
